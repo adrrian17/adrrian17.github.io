@@ -1,0 +1,42 @@
+name: Momentum
+description: 'Hago café y guiones para cómic.'
+meta_description: "Hago café y guiones para cómic."
+
+aboutPage: true
+
+markdown: kramdown
+highlighter: rouge
+
+plugins: [jekyll-paginate]
+paginate: 5
+domain_name: 'https://adrrian17.github.io'
+google_analytics: ''
+disqus: true
+disqus_shortname: 'adrrian17'
+
+# Details for the RSS feed generator
+url:            'https://adrrian17.github.io'
+author:         'Adrian Ayala'
+authorTwitter:  'adrrian17'
+
+permalink:       /:year/:month/:day/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

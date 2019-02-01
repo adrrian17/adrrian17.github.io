@@ -1,0 +1,32 @@
+<ul id="post-list">
+    {% for post in paginator.posts %}
+        <li>
+            <a href="{{ "/" | relative_url  }}{{ post.url | remove_first: '/' }}">
+              <aside class="dates">
+                {% assign m = post.date | date: "%-m" %}
+                {% case m %}
+                  {% when '1' %}ENE
+                  {% when '2' %}FEB
+                  {% when '3' %}MAR
+                  {% when '4' %}ABR
+                  {% when '5' %}MAY
+                  {% when '6' %}JUN
+                  {% when '7' %}JUL
+                  {% when '8' %}AGO
+                  {% when '9' %}SEP
+                  {% when '10' %}OCT
+                  {% when '11' %}NOV
+                  {% when '12' %}DIC
+                {% endcase %}
+                {{ post.date | date:"%d" }},
+                {{ post.date | date: "%Y" }}
+              </aside>
+            </a>
+            <a href="{{ "/" | relative_url  }}{{ post.url | remove_first: '/' }}">{{ post.title }} <h2>{{ post.description }}</h2></a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
