@@ -3,11 +3,11 @@
         <span class="prev">
             {% if paginator.previous_page == 1 %}
                 <a href="{{ "/" | relative_url  }}" title="Página Anterior">
-                    <span class="arrow">←</span> Al presente...
+                    <span class="arrow">←</span> Al presente
                 </a>
             {% else %}
                 <a href="{{ "/" | relative_url  }}page{{ paginator.previous_page }}/">
-                    <span class="arrow">←</span> Al presente...
+                    <span class="arrow">←</span> Al presente
                 </a>
             {% endif %}
         </span>
@@ -15,7 +15,7 @@
     {% if paginator.next_page %}
         <span class="next">
             <a href="{{ "/" | relative_url  }}page{{ paginator.next_page }}/">
-                Al pasado... <span class="arrow">→</span>
+                Al pasado <span class="arrow">→</span>
             </a>
         </span>
     {% endif %}
