@@ -4,7 +4,7 @@ title: Entre Viñetas - Enero 2019
 
 En el 2018 leí muchísimos cómics, creo que más de los que he leído en los diez años que llevo coleccionándolos. Lo triste de esto es que no tengo un registro claro de cuántos y cuales fueron, en teoría dicho registro está en mi mente pero no logró recordar absolutamente todos.
 
-Por esa razón, desde que empezó el 2019 decidí ir registrando, uno a uno, los cómics que voy leyendo cada mes. El resultado de ese registro fue el siguiente: durante Enero leí 45 cómics de 7 editoriales diferentes. Las tres principales editoriales fueron Image (12), Marvel (8) y Vertigo (6).
+Por esa razón, desde que empezó el 2019 decidí ir registrando, uno a uno, los cómics que voy leyendo cada mes. El resultado de ese registro durante el mes de Enero fue el siguiente: leí 45 cómics de 7 editoriales diferentes. Las tres principales editoriales fueron Image (12), Marvel (8) y Vertigo (6).
 
 Aquí les dejo mi lista completa de los cómics correspondientes a Enero:
 
