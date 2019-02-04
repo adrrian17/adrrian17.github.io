@@ -10,7 +10,7 @@ highlighter: rouge
 plugins: [jekyll-paginate]
 paginate: 5
 domain_name: 'https://adrrian17.github.io'
-google_analytics: ''
+google_analytics: 'UA-40108887-6'
 disqus: true
 disqus_shortname: 'adrrian17'
 
