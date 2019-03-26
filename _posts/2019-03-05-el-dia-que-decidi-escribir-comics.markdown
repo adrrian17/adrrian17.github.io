@@ -1,5 +1,5 @@
 ---
-title: El día que decidí escribir mis propios cómics
+title: El día que decidí escribir cómics
 ---
 
 Han pasado varios años desde que empecé mi colección de cómics, y durante todo ese tiempo nunca cruzó por mi cabeza la idea de escribir guiones hasta que conocí The Umbrella Academy. 
