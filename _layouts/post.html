@@ -4,7 +4,8 @@ layout: page
 <article class="c-article">
   <header class="c-article__header">
     <h1 class="c-article__title">{{ page.title }}</h1>
-    <p class="c-article__time">
+  </header>
+  <div class="c-article__time">
       <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {% assign m = page.date | date: "%-m" %}
         {% case m %}
@@ -24,8 +25,7 @@ layout: page
         {{ page.date | date:"%d" }},
         {{ page.date | date: "%Y" }}
       </time>
-    </p>
-  </header>
+    </div>
   <!-- Post Tags -->
   <ul class="c-tags">
     {% for tag in page.tags %}
@@ -40,53 +40,18 @@ layout: page
     {% if page.previous.url %}
     <div class="wrapper" id="left">
       <small>
-        <b>Anterior</b>
-        {% assign m = page.previous.date | date: "%-m" %}
-        {% case m %}
-          {% when '1' %}Ene
-          {% when '2' %}Feb
-          {% when '3' %}Mar
-          {% when '4' %}Abr
-          {% when '5' %}May
-          {% when '6' %}Jun
-          {% when '7' %}Jul
-          {% when '8' %}Ago
-          {% when '9' %}Sep
-          {% when '10' %}Oct
-          {% when '11' %}Nov
-          {% when '12' %}Dic
-        {% endcase %}
-        {{ page.previous.date | date:"%d" }},
-        {{ page.previous.date | date: "%Y" }}
+        <a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">← Anterior</a>
       </small>
       <br>
-      <a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.title}}</a>
+      
     </div>
     {% endif %}
     {% if page.next.url %}
     <div class="wrapper" id="right">
       <small>
-        {% assign m = page.next.date | date: "%-m" %}
-        {% case m %}
-          {% when '1' %}Ene
-          {% when '2' %}Feb
-          {% when '3' %}Mar
-          {% when '4' %}Abr
-          {% when '5' %}May
-          {% when '6' %}Jun
-          {% when '7' %}Jul
-          {% when '8' %}Ago
-          {% when '9' %}Sep
-          {% when '10' %}Oct
-          {% when '11' %}Nov
-          {% when '12' %}Dic
-        {% endcase %}
-        {{ page.next.date | date:"%d" }},
-        {{ page.next.date | date: "%Y" }}
-        <b>Siguiente</b>
+        <a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">Siguiente →</a>
       </small>
       <br>
-      <a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.title}} &raquo;</a>
     </div>
     {% endif %}
   </div>
