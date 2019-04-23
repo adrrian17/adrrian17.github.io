@@ -40,7 +40,7 @@ layout: page
     {% if page.previous.url %}
     <div class="wrapper" id="left">
       <small>
-        <a class="no-hov" href="{{ page.previous.url | prepend: site.baseurl }}">← Anterior</a>
+        <a href="{{ page.previous.url | prepend: site.baseurl }}">← Anterior</a>
       </small>
       <br>
       
@@ -49,7 +49,7 @@ layout: page
     {% if page.next.url %}
     <div class="wrapper" id="right">
       <small>
-        <a class="no-hov" href="{{ page.next.url | prepend: site.baseurl }}">Siguiente →</a>
+        <a href="{{ page.next.url | prepend: site.baseurl }}">Siguiente →</a>
       </small>
       <br>
     </div>
