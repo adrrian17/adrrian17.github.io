@@ -3,6 +3,7 @@ layout: content
 title: "Miedo a la oscuridad"
 permalink: /miedo-a-la-oscuridad/
 image: miedo-a-la-oscuridad/miedo-a-la-oscuridad-header.jpg
+excerpt: Un cómic sobre el miedo a la oscuridad y los monstruos.
 ---
 
 <small>*Enero 12, 2018*</small>
