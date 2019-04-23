@@ -2,6 +2,7 @@
 layout: content
 title: "Miedo a la oscuridad"
 permalink: /miedo-a-la-oscuridad/
+image: miedo-a-la-oscuridad/miedo-a-la-oscuridad-header.jpg
 ---
 
 <small>*Enero 12, 2018*</small>
