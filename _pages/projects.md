@@ -15,6 +15,7 @@ Una lista de los proyectos de cómic en los que he trabajado.
 
 ## Guiones
 
+- [Gracias](/guiones/Gracias.pdf){:target="_blank"} <small>(Abril 26, 2019)</small>
 - [Los Tres Hermanos](/guiones/Los-tres-hermanos.pdf){:target="_blank"} <small>(Abril 05, 2019)</small>
 - [Pew Pew](/guiones/Pew-pew.pdf){:target="_blank"} <small>(Noviembre 27, 2018)</small>
 - [Miedo a la oscuridad](/guiones/Miedo-a-la-oscuridad.pdf){:target="_blank"} <small>(Diciembre 9, 2017)</small>
