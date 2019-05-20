@@ -8,9 +8,9 @@ Una lista de los proyectos de cómic en los que he trabajado.
 
 ## Cómics
 
-- [Miedo a la oscuridad](/miedo-a-la-oscuridad) <small>(Enero 12, 2018)</small>
-- [Héroe Imaginario](/heroe-imaginario) <small>(Febrero 21, 2017)</small>
 - [Thank You](/projects/thank-you) <small>(Mayo 17, 2019)</small>
+- [Miedo a la oscuridad](/projects/miedo-a-la-oscuridad) <small>(Enero 12, 2018)</small>
+- [Héroe Imaginario](/projects/heroe-imaginario) <small>(Febrero 21, 2017)</small>
 
 ---
 

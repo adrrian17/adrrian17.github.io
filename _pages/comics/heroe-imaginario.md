@@ -1,7 +1,7 @@
 ---
 layout: content
 title: "Héroe Imaginario"
-permalink: /heroe-imaginario/
+permalink: /projects/heroe-imaginario/
 ---
 
 <small>*Febrero 21, 2017*</small>
