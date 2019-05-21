@@ -2,6 +2,7 @@
 layout: content
 title: "Thank You"
 permalink: /projects/thank-you/
+image: thank-you/thank-you-header.jpg
 excerpt: La gratitud debe aplicar para todos, sean humanos o máquinas.
 ---
 
