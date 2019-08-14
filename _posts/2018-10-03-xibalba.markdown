@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xibalbá - Pt. 1"
+title: "Xibalbá"
 description: ""
 date: 2018-10-03
 comments: true
