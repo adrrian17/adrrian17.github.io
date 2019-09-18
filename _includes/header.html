@@ -2,20 +2,12 @@
   <h1><code>{{ site.title}}</code></h1>
   <h1>{{ site.description }}</h1>
   <p>
-  	{% if page.title != nil %}
-    	<a href="{{ "/" | prepend: site.baseurl }}">Inicio</a>
-    	<span class="u-separate"></span> 
-    {% endif %}
-    {% if page.title != 'Proyectos' %}
-      <a href="{{ "/projects/" | prepend: site.baseurl }}">Proyectos</a>
-      <span class="u-separate"></span> 
-    {% endif %}
-    {% if page.title != 'Bio' %}
-      <a href="{{ "/bio/" | prepend: site.baseurl }}">Bio</a>
-      <span class="u-separate"></span>
-    {% endif %}
-    {% if page.title != 'Contacto' %}
-      <a href="{{ "/contact/" | prepend: site.baseurl }}">Contacto</a>
-    {% endif %}
+  	<a href="{{ "/" | prepend: site.baseurl }}">Inicio</a>
+    <span class="u-separate"></span>
+    <a href="{{ "/projects/" | prepend: site.baseurl }}">Proyectos</a> 
+    <span class="u-separate"></span>
+    <a href="{{ "/bio/" | prepend: site.baseurl }}">Bio</a>
+    <span class="u-separate"></span>
+    <a href="{{ "/contact/" | prepend: site.baseurl }}">Contacto</a>
   </p>
 </header>
