@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Entre Viñetas 2019"
-description: "El registro mensual de los cómics que leí durante el 2019"
+title: 'Entre Viñetas 2019'
+description: 'El registro mensual de los cómics que leí durante el 2019'
 date: 2019-02-01
 comments: true
 ---
@@ -14,42 +14,42 @@ En el 2018 leí muchísimos cómics, creo que más de los que he leído en los d
 
 El resultado de ese registro durante el mes de Enero fue el siguiente: leí 45 cómics de 7 editoriales diferentes. Las tres principales editoriales fueron Image (12), Marvel (8) y Vertigo (6).
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Babyteeth #1 a #5|Aftershock
-Captain America (2018) #1 a #6|Marvel
-Doomsday Clock #8|DC Comics
-Dungeons & Dragons: Legends of Baldur’s Gate #1|IDW
-Edge of Spider-Verse #5|Marvel
-God Country #1 a #6|Image
-Green Lantern #1|DC Comics
-Heroes In Crisis #4 y #5|DC Comics
-Oblivion Song #7 a #11|Image
-Punk Rock Jesus #1 a #6|Vertigo
-Sombra #1 a #4|Boom Studios
-Sparrowhawk #4|Boom Studios
-The Magic Order #5|Image
-The Umbrella Academy: Hotel Oblivion #4|Dark Horse
-The Wicked + The Divine #1 y #2|Image
-Winter Soldier #1|Marvel
-Young Justice #1|DC Comics
+|                    **Cómic**                    | **Editorial** |
+| :---------------------------------------------: | :-----------: |
+|                Babyteeth #1 a #5                |  Aftershock   |
+|         Captain America (2018) #1 a #6          |    Marvel     |
+|                Doomsday Clock #8                |   DC Comics   |
+| Dungeons & Dragons: Legends of Baldur’s Gate #1 |      IDW      |
+|             Edge of Spider-Verse #5             |    Marvel     |
+|               God Country #1 a #6               |     Image     |
+|                Green Lantern #1                 |   DC Comics   |
+|            Heroes In Crisis #4 y #5             |   DC Comics   |
+|             Oblivion Song #7 a #11              |     Image     |
+|             Punk Rock Jesus #1 a #6             |    Vertigo    |
+|                 Sombra #1 a #4                  | Boom Studios  |
+|                 Sparrowhawk #4                  | Boom Studios  |
+|               The Magic Order #5                |     Image     |
+|     The Umbrella Academy: Hotel Oblivion #4     |  Dark Horse   |
+|         The Wicked + The Divine #1 y #2         |     Image     |
+|                Winter Soldier #1                |    Marvel     |
+|                Young Justice #1                 |   DC Comics   |
 
 ---
 
 ## Febrero
 
-Siguiendo con la tradición de llevar el registro de cómics leídos, aquí les dejo la lista de febrero. En este mes, las tres editoriales que más leí fueron: Image (46), Marvel (7) y Boom Studios (4). 
+Siguiendo con la tradición de llevar el registro de cómics leídos, aquí les dejo la lista de febrero. En este mes, las tres editoriales que más leí fueron: Image (46), Marvel (7) y Boom Studios (4).
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Heroes In Crisis #6|DC Comics
-Invincible #1 a #22|Image
-Isola #1 a #5|Image
-Judas #1 a #4|Boom Studios
-Shazam #2|DC Comics
-The Dark Tower: The Gunslinger Born #1 a #7|Marvel
-The Umbrella Academy: Hotel Oblivion #5|Dark Horse
-The Wicked + The Divine #3 - #21|Image
+|                  **Cómic**                  | **Editorial** |
+| :-----------------------------------------: | :-----------: |
+|             Heroes In Crisis #6             |   DC Comics   |
+|             Invincible #1 a #22             |     Image     |
+|                Isola #1 a #5                |     Image     |
+|                Judas #1 a #4                | Boom Studios  |
+|                  Shazam #2                  |   DC Comics   |
+| The Dark Tower: The Gunslinger Born #1 a #7 |    Marvel     |
+|   The Umbrella Academy: Hotel Oblivion #5   |  Dark Horse   |
+|      The Wicked + The Divine #3 - #21       |     Image     |
 
 ---
 
@@ -57,17 +57,17 @@ The Wicked + The Divine #3 - #21|Image
 
 Durante Marzo las tres editoriales de las que más leí fueron: DC Comics (14), Image (12) y Vertigo (2). Por primera vez Image queda en segundo lugar.
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Dark Nights: Metal #1 a #6|DC Comics
-Doomsday Clock #9|DC Comics
-Heroes In Crisis #7|DC Comics
-High Level #1 y #2|Vertigo
-Invincible #23 a #34|Image
-Justice League: No Justice #1 a #4|DC Comics
-Shazam #3 y #4|DC Comics
-Sparrowhawk #5|Boom Studios
-The Umbrella Academy: Hotel Oblivion #6|Dark Horse
+|                **Cómic**                | **Editorial** |
+| :-------------------------------------: | :-----------: |
+|       Dark Nights: Metal #1 a #6        |   DC Comics   |
+|            Doomsday Clock #9            |   DC Comics   |
+|           Heroes In Crisis #7           |   DC Comics   |
+|           High Level #1 y #2            |    Vertigo    |
+|          Invincible #23 a #34           |     Image     |
+|   Justice League: No Justice #1 a #4    |   DC Comics   |
+|             Shazam #3 y #4              |   DC Comics   |
+|             Sparrowhawk #5              | Boom Studios  |
+| The Umbrella Academy: Hotel Oblivion #6 |  Dark Horse   |
 
 ---
 
@@ -75,14 +75,14 @@ The Umbrella Academy: Hotel Oblivion #6|Dark Horse
 
 Durante Abril, las tres editoriales de las que más leí fueron: Image (26), DC Comics (2), Vertigo (1). Image regresa al número uno, lo cual no me sorprende porque tengo muchas series pendientes de Image.
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Detective Comics #1000|DC Comics
-Heroes In Crisis #8|DC Comics
-High Level #3|Vertigo
-Invincible #35 a #37|Image
-Paper Girls #6 a #27|Image
-The Magic Order #6|Image
+|       **Cómic**        | **Editorial** |
+| :--------------------: | :-----------: |
+| Detective Comics #1000 |   DC Comics   |
+|  Heroes In Crisis #8   |   DC Comics   |
+|     High Level #3      |    Vertigo    |
+|  Invincible #35 a #37  |     Image     |
+|  Paper Girls #6 a #27  |     Image     |
+|   The Magic Order #6   |     Image     |
 
 ---
 
@@ -90,11 +90,11 @@ The Magic Order #6|Image
 
 En Mayo leí muy poco comparado con los meses anteriores, fueron solamente 17 cómics y 16 de ellos fueron de Image Comics, la mayoría de la serie de East of West y el otro fue el final de Magic Order.
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-East of West #1 a #15|Image
-Magic Order #6|Image
-Heroes In Crisis #9|DC Comics
+|       **Cómic**       | **Editorial** |
+| :-------------------: | :-----------: |
+| East of West #1 a #15 |     Image     |
+|    Magic Order #6     |     Image     |
+|  Heroes In Crisis #9  |   DC Comics   |
 
 ---
 
@@ -102,12 +102,12 @@ Heroes In Crisis #9|DC Comics
 
 Este mes fue mucho más tranquilo, muchas ocupaciones. El final de Hotel Oblivion me dejó impactado y ansioso por saber que más sigue en la historia. Empress lo leí por curiosidad y terminó siendo bastante bueno, espero que pronto haya más números de la historia.
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Batman: Last Knight On Earth #1|DC Comics
-Empress #1 a #7|Marvel
-Doomsday Clock #10|DC Comics
-The Umbrella Academy: Hotel Oblivion #7|Dark Horse
+|                **Cómic**                | **Editorial** |
+| :-------------------------------------: | :-----------: |
+|     Batman: Last Knight On Earth #1     |   DC Comics   |
+|             Empress #1 a #7             |    Marvel     |
+|           Doomsday Clock #10            |   DC Comics   |
+| The Umbrella Academy: Hotel Oblivion #7 |  Dark Horse   |
 
 ---
 
@@ -115,25 +115,81 @@ The Umbrella Academy: Hotel Oblivion #7|Dark Horse
 
 ¡El mes de mi cumpleaños! Compré Battlechasers en digital por recomendación de mi novia, Madureira es un gran autor, lástima que no continuo con la historia. Leí el #1 de la nuevaserie de Doom Patrol creyendo que era la continuación directa de los 6 números de la serie anterior para enterarme después de que había 6 números más antes de esta nueva serie...
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Battlechasers #0 a #9|Image
-Doom Patrol: Weight of The Worlds #1|DC Comics
-Middlewest #1 a #6|Image
-The Silencer #1 a #6|DC Comics
-Wayward #1 a #6|Image
+|              **Cómic**               | **Editorial** |
+| :----------------------------------: | :-----------: |
+|        Battlechasers #0 a #9         |     Image     |
+| Doom Patrol: Weight of The Worlds #1 |   DC Comics   |
+|          Middlewest #1 a #6          |     Image     |
+|         The Silencer #1 a #6         |   DC Comics   |
+|           Wayward #1 a #6            |     Image     |
 
 ---
 
-## Agosto 
+## Agosto
 
 Leí todo completo el evento de Witching Hour de Wonder Woman y terminó siendo una gran decepción, es un evento muy plano y sin grandes repercusiones. El final de Paper Girls fue muy bonito y con un gran mensaje, extrañaré mucho leer esa serie. Once & Future se ve prometedor, el dúo de Kieron Gillen y Dan Mora es genial.
 
-**Cómic**|**Editorial**
-:-----:|:-----:
-Justice League Dark #4|DC Comics
-Once & Future #1|Boom Studios
-Paper Girls #30|Image
-Road of Bones #1|IDW
-Wonder Woman #56 y #57|DC Comics
-Wonder Woman/Justice League Dark: The Witching Hour #1 y #2|DC Comics
+|                          **Cómic**                          | **Editorial** |
+| :---------------------------------------------------------: | :-----------: |
+|                   Justice League Dark #4                    |   DC Comics   |
+|                      Once & Future #1                       | Boom Studios  |
+|                       Paper Girls #30                       |     Image     |
+|                      Road of Bones #1                       |      IDW      |
+|                   Wonder Woman #56 y #57                    |   DC Comics   |
+| Wonder Woman/Justice League Dark: The Witching Hour #1 y #2 |   DC Comics   |
+
+---
+
+## Septiembre
+
+Lo mejor de Septiembre fue la serie del Capi. Es la primera vez que leo algo de Ta-Nehisi Coates y realmente está haciendo un gran trabajo con el Capitán América. Lady Killer es genial, me gustaría ver una tercera parte de la historia ya que en el #10 hay una especie de cliffhanger.
+
+|                **Cómic**                | **Editorial** |
+| :-------------------------------------: | :-----------: |
+|  Batman: Curse of The White Knight #2   |   DC Comics   |
+|           Doomsday Clock #11            |   DC Comics   |
+|          Lady Killer #1 a #10           |  Dark Horse   |
+| Go Go Power Rangers: Forever Rangers #1 | Boom Studios  |
+|           Once and Future #2            | Boom Studios  |
+|          The Darkness #1 a #8           |     Image     |
+|  Something Is Killing The Children #1   | Boom Studios  |
+|             Witchblade #18              |     Image     |
+|         Captain America #7 a 12         |    Marvel     |
+
+---
+
+## Octubre
+
+Este mes fue demasiado ajetreado y no tuve tiempo ni concentración para leer más allá de estos dos cómics...
+
+|              **Cómic**               | **Editorial** |
+| :----------------------------------: | :-----------: |
+|          Once and Future #3          | Boom Studios  |
+| Batman: Curse of The White Knight #3 |   DC Comics   |
+
+---
+
+## Noviembre
+
+Como siempre, Sean Murphy está haciendo un gran trabajo con Curse of The White Knight. Basketful of Heads de Joe Hill (hijo de Stephen King) es una verdadera joya, ya quiero ver como acaba la historia.
+
+|              **Cómic**               | **Editorial** |
+| :----------------------------------: | :-----------: |
+|          Once and Future #4          | Boom Studios  |
+| Batman: Curse of The White Knight #4 |   DC Comics   |
+|            Far Sector #1             |   DC Comics   |
+|        Basketful of Heads #1         |   DC Comics   |
+|       The Doll House Family #1       |   DC Comics   |
+
+---
+
+## Diciembre
+
+El mejor cómic de Diciembre definitivamente fue Doomsday Clock #12, es una gran carta de amor y fanatismo a Superman, y no lo digo en mal plan, realmente me gustó mucho como terminó la historia de Geof Johns.
+
+|             **Cómic**              | **Editorial** |
+| :--------------------------------: | :-----------: |
+|         Once and Future #5         | Boom Studios  |
+|         Doomsday Clock #12         |   DC Comics   |
+|     Basketful of Heads #2 y #3     |   DC Comics   |
+| Hazel & Cha Cha Save The Christmas |  Dark Horse   |
