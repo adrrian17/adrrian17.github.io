@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Editores, los verdaderos héroes sin capa"
+description: ""
+date: 2020-04-11
+comments: true
+---
+
 Una verdad universal es que detrás de toda historia hay un escritor. Pero algo que no todos saben es que detrás de todo escritor se encuentra una persona igual de talentosa e importante: el editor.
 
 Creo que la mejor definición que tengo para los editores es: escritores que no escriben. ¿Por qué? Porque ellos deben tener conocimiento sobre estructuras narrativas, gramática, ortografía, entre otras cosas para poder editar y corregir, de la mejor manera posible, el texto o guión que un escritor les entrega.
