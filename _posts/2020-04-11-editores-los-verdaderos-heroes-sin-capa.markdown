@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Editores, los verdaderos héroes sin capa"
+title: "Editores, verdaderos héroes sin capa"
 description: ""
 date: 2020-04-11
 comments: true
