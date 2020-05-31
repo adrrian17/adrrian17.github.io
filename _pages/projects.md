@@ -4,8 +4,6 @@ title: Proyectos
 permalink: /projects/
 ---
 
-Una lista de los proyectos de cómic en los que he trabajado.
-
 ## Cómics
 
 - [Thank You](/projects/thank-you) <small>(Mayo 17, 2019)</small>
