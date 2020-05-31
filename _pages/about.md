@@ -4,7 +4,7 @@ title: Bio
 permalink: /bio/
 ---
 
-Hola, soy Adrian Ayala. 
+Hola, soy Adrian Ayala.
 
 Estudié una licenciatura en tecnologías de información y durante algún tiempo fui programador; pero mi verdadera pasión son los cómics y el café. Por esa misma razón, fundé Comicgram, una cafetería que combina ambos mundos.
 
@@ -18,6 +18,6 @@ Momentum es el nombre con el que suelo referirme a mi blog/página personal. Est
 
 ---
 
-## One More Thing...
+## One More Thing
 
 El diseño de mi blog es gracias a [Paper](https://github.com/mkchoi212/paper-jekyll-theme) de Mike JS. Choi.
