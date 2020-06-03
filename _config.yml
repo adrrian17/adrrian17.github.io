@@ -1,25 +1,84 @@
 # Site settings
-title: "Adrian (Sin Acento) Ayala"
-description: Hago café y guiones para cómic.
+title: Momentum.
+description: >-
+  Hago café y guiones para cómic.
+lang: es-MX
+timezone: America/Mexico_City
+# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/adrrian17/adrrian17.github.io
+mode: light # default theme "dark" | "light"
 
-author: Adrian Ayala
-email: adrian.ayala17@gmail.com
-twitter_username: adrrian17
-github_username: adrrian17
+# Profile settings
+author:
+  name: Adrian (Sin Acento) Ayala
+  bio: >-
+    Hago café y guiones para cómic.
+  username: adrrian17
+  email: adrian.ayala17@gmail.com
+  avatar: /assets/img/avatar.jpg
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://adrianayala.mx" # the base hostname & protocol for your site
-http-url: "http://adrianayala.mx"
+# Url settings
+url: 'https://adrianayala.mx'
+baseurl:
+permalink: /:title/
+google_analytics: UA-40108887-6
+# fb_appid:
 
-google_analytics_id: UA-40108887-6
-disqus_id:
+# Collection setting
+collections:
+  posts:
+    output: true
+  comics:
+    output: true
+  scripts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ''
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
 
 # Build settings
-include: [_pages]
-markdown: kramdown
-permalink: /:year/:month/:day/:title
-
 sass:
   style: compressed
 
-exclude: [vendor]
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sass-converter
+  - jekyll-sitemap
+  - jekyll-postfiles

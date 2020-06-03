@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "Sensaciones impresas"
-description: ""
+title: Sensaciones Impresas
 date: 2013-05-03
-comments: true
+modified:
+tags:
+description:
 ---
 
 Esa sensación al rozar con los dedos una hoja de papel, el darle la vuelta para devorar la siguiente tanda de palabras que te transportan al mundo que el autor elaboró para ti. Ese sentimiento de fragilidad que está vinculado a las páginas, que sabemos no durarán una eternidad y envejecerán como nosotros lo hacemos.

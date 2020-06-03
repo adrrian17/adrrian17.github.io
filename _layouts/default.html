@@ -1,12 +1,18 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body>
-    <main class="u-container">
+<html lang="{{ page.lang | default: site.lang | default: " en " }}">
+{% include header.html %}
+
+<body data-theme="{{ site.mode }}">
+  {% include navbar.html %}
+  <div class="wrapper">
+    {% include author.html %}
+    <main aria-label="Content">
       {{ content }}
     </main>
-    {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
-  </body>
+    {% include footer.html %}
+  </div>
+</body>
 </html>

@@ -1,0 +1,28 @@
+---
+layout: default
+home: false
+---
+
+{% assign comics = site.comics | reverse %}
+<h4 class="posts-item-note">Cómics</h4>
+{% for comic in comics %}
+<article class="post-item">
+  <span class="post-item-date">{{ comic.date | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title">
+    <a href="{{ comic.url }}">{{ comic.title | escape }}</a>
+  </h4>
+</article>
+{% endfor %}
+
+<br />
+
+{% assign scripts = site.scripts | reverse %}
+<h4 class="posts-item-note">Guiones</h4>
+{% for script in scripts %}
+<article class="post-item">
+  <span class="post-item-date">{{ script.date | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title">
+    <a href="{{ script.pdf }}" target="_blank">{{ script.title | escape }}</a>
+  </h4>
+</article>
+{% endfor %}
