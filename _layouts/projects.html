@@ -7,7 +7,13 @@ home: false
 <h4 class="posts-item-note">Cómics</h4>
 {% for comic in comics %}
 <article class="post-item">
-  <span class="post-item-date">{{ comic.date | date: "%b %d, %Y" }}</span>
+  <span class="post-item-date">
+    {% assign m = comic.date | date: "%-m" %} {% case m %} {% when '1' %}Ene {%
+    when '2' %}Feb {% when '3' %}Mar {% when '4' %}Abr {% when '5' %}May {% when
+    '6' %}Jun {% when '7' %}Jul {% when '8' %}Ago {% when '9' %}Sep {% when '10'
+    %}Oct {% when '11' %}Nov {% when '12' %}Dic {% endcase %} {{ post.date
+    |date: "%d, %Y" }} {{ comic.date | date: "%d, %Y" }}
+  </span>
   <h4 class="post-item-title">
     <a href="{{ comic.url }}">{{ comic.title | escape }}</a>
   </h4>
@@ -20,7 +26,13 @@ home: false
 <h4 class="posts-item-note">Guiones</h4>
 {% for script in scripts %}
 <article class="post-item">
-  <span class="post-item-date">{{ script.date | date: "%b %d, %Y" }}</span>
+  <span class="post-item-date">
+    {% assign m = script.date | date: "%-m" %} {% case m %} {% when '1' %}Ene {%
+    when '2' %}Feb {% when '3' %}Mar {% when '4' %}Abr {% when '5' %}May {% when
+    '6' %}Jun {% when '7' %}Jul {% when '8' %}Ago {% when '9' %}Sep {% when '10'
+    %}Oct {% when '11' %}Nov {% when '12' %}Dic {% endcase %} {{ post.date
+    |date: "%d, %Y" }} {{ script.date | date: "%d, %Y" }}
+  </span>
   <h4 class="post-item-title">
     <a href="{{ script.pdf }}" target="_blank">{{ script.title | escape }}</a>
   </h4>
