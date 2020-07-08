@@ -42,10 +42,10 @@ body {
   font: $normal-weight #{$base-font-size}/#{$base-line-height} $sans-family;
   -webkit-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
-  -webkit-font-feature-settings: "kern" 1;
-  -moz-font-feature-settings: "kern" 1;
-  -o-font-feature-settings: "kern" 1;
-  font-feature-settings: "kern" 1;
+  -webkit-font-feature-settings: 'kern' 1;
+  -moz-font-feature-settings: 'kern' 1;
+  -o-font-feature-settings: 'kern' 1;
+  font-feature-settings: 'kern' 1;
   font-kerning: normal;
   box-sizing: border-box;
 }
@@ -134,7 +134,7 @@ ul {
     text-align: -webkit-match-parent;
   }
   li::before {
-    content: "\03BB";
+    content: '\03BB';
     display: inline-block;
     width: 1em;
     position: relative;
@@ -334,7 +334,7 @@ table {
 
 // Clearfix
 %clearfix:after {
-  content: "";
+  content: '';
   display: table;
   clear: both;
 }
@@ -356,4 +356,13 @@ mark,
       border: 0;
     }
   }
+}
+
+.freelance-tag {
+  background-color: rgba(51, 114, 177, 0.9);
+  border-radius: 0.25rem;
+  padding: 0.3rem;
+  color: white;
+  font-weight: bold;
+  margin-left: 0.5rem;
 }
