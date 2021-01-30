@@ -4,7 +4,7 @@ description: >-
   Hago café y guiones para cómic.
 lang: es-MX
 timezone: America/Mexico_City
-# image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/header.jpg # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/adrrian17/adrrian17.github.io
 mode: light # default theme "dark" | "light"
 
@@ -19,7 +19,7 @@ author:
 
 # Url settings
 url: 'https://adrianayala.mx'
-baseurl:
+# baseurl:
 permalink: /:title/
 google_analytics: UA-40108887-6
 # fb_appid:
