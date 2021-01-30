@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Café, cómics y más allá"
-description: ""
+title: 'Café, cómics y más allá'
+description: ''
 date: 2018-11-28
 comments: true
 ---
@@ -18,4 +18,4 @@ Estamos muy agradecidos por el grandioso recibimiento que ha tenido la cafeterí
 
 Ahora un nuevo año comienza, más aventuras y sorpresas nos esperan, y por supuesto, ustedes son parte de lo que está por venir.
 
-Antes de colocar el punto final a este escrito, me gustaría agradecer a todas las personas que nos han brindado su apoyo, esfuerzo y talento para ver florecer este proyecto. Comicgram vive por ustedes, muchas gracias por estar ahí  y por creer en nosotros durante todo este tiempo.
+Antes de colocar el punto final a este escrito, me gustaría agradecer a todas las personas que nos han brindado su apoyo, esfuerzo y talento para ver florecer este proyecto. Comicgram vive por ustedes, muchas gracias por estar ahí y por creer en nosotros durante todo este tiempo.

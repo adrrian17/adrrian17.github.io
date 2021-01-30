@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "El sentido de la vida"
-description: ""
+title: 'El sentido de la vida'
+description: ''
 date: 2013-08-20
 comments: true
 ---

@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Historias"
-description: ""
+title: 'Historias'
+description: ''
 date: 2013-05-07
 comments: true
 ---
 
 > Todo objeto cuenta una historia si la sabes leer.
-> 
+>
 > – Henry Ford
 
-Yo creo firmemente que la esencia de los objetos se define por la historia que llevan consigo. 
+Yo creo firmemente que la esencia de los objetos se define por la historia que llevan consigo.
 
 La historia de quien con esfuerzo y dedicación le dio forma o propósito. La historia de cómo es que ese objeto llegó a tus manos y lo que representa para ti.
 

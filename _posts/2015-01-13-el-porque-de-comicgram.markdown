@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "El porqué de Comicgram"
-description: ""
+title: 'El porqué de Comicgram'
+description: ''
 date: 2015-01-13
 comments: true
 ---
