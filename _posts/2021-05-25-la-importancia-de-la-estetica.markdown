@@ -12,7 +12,7 @@ Hace unas semanas en medio de una conversación con Dany, uno de mis mejores ami
 
 La respuesta es bastante sencilla. Para mí, una buena estética es el reflejo del esfuerzo y dedicación que alguien puso detrás del producto o servicio que está ofreciendo al mundo. Es relativamente fácil hacer una herramienta que cumpla su cometido, pero es mucho más difícil hacer una herramienta que cumpla su cometido y encima tenga una estética cuidada y sea agradable al usarla. 
 
-Aplico ese mismo criterio en mis proyectos, en ocasiones, hasta un punto que raya la obsesión. No importa si se trata de un post como este, un guión, un café o algo más, todo lo que hago tiene que tener una estética que refleje que realmente me importa lo que estoy haciendo.
+Cuando se trata de mis proyectos suelo aplicar este criterio, en ocasiones, hasta un punto que raya la obsesión. No importa si se trata de un post como este, un guión, un café o algo más, todo lo que hago tiene que tener una estética que refleje que realmente me importa lo que estoy haciendo.
 
 Por último, les dejo una cita de la biografía de Steve Jobs que desde el día que la leí se me quedó grabada en la cabeza y es parte de la razón del porque me obsesiona la estética:
 
